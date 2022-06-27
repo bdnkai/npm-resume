@@ -6,14 +6,14 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"bin": {
-		"get-resume": "./index.js"
-	},
 	"keywords": [
 		"resume",
 		"brandon",
 		"nguyen"
 	],
 	"author": "Brandon Nguyen",
-	"license": "ISC"
+	"license": "ISC",
+	"bin": {
+		"get-resume": "./index.js"
+	}
 }
