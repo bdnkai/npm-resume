@@ -1,0 +1,19 @@
+{
+    "name": "Brandon Nguyen",
+    "website": "https://bdnkai.github.io/BNsPortfolio/",
+    "linkedin": "https://www.linkedin.com/in/bdnii",
+    "github": "bdnkai",
+    "email": "bdn.kai@gmail.com",
+    "resume": "https://github.com/bdnkai/BNsPortfolio/blob/main/assets/resume.png",
+    "proficientTechnologies": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Node"
+    ],
+    "otherSkills": [
+        "Real Estate Analyst",
+        "ParagonMLS"
+    ]
+}
