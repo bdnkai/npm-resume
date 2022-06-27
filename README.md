@@ -1,2 +1,1 @@
-# npm-resume
-# npm-resume
+npm resume for Brandon Nguyen, created by Brandon Nguyen
